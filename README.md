@@ -1,4 +1,4 @@
-# Análise de Vendas Online — Controle Executivo Comercial
+# Dashboard de Análise de Vendas — Aurora Comercial
 
 > Dashboard interativo que transforma uma base de 1.000 pedidos em indicadores de receita, custo e margem por país, categoria, gerente, representante e dispositivo.
 
@@ -81,5 +81,5 @@ analise-vendas-online/
 
 ## Autor
 
-**Luis Carlos Machado Soares** · 19 anos em logística e operações, em transição para Análise de Dados
+**Luis Carlos Machado Soares** · mais de 16 anos em operações e logística, em transição para Análise de Dados
 [LinkedIn](https://www.linkedin.com/in/luiscarlos-log) · [Portfólio](https://luiscarlossoarespro-cyber.github.io/)
